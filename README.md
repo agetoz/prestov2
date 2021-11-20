@@ -18,4 +18,5 @@ Fitur :
 - Export berupa excel
 
 Aplikasi Prestov2 ini sangat cocok digunakan di lembaga-lembaga pemerintahan untuk menggunakan presensi Finger dan presensi yang masih manual.
+
 *Ket : Open Donasi silahkan e-mail : agetoz@yahoo.com
