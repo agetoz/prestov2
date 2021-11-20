@@ -1,9 +1,10 @@
 # prestov2
 Aplikasi Presensi Terpadu Online - versi 2.0
 
-dibuat menggunakan CodeIgniter 2.xx
-PHP 5.6 Above (7.0 Tested)
-MySql 5.3 Above (5.6 Tested)
+dibuat menggunakan :
+- CodeIgniter 2.xx
+- PHP 5.6 Above (7.0 Tested)
+- MySql 5.3 Above (5.6 Tested)
 
 Fitur :
 "User"
