@@ -20,4 +20,5 @@ Fitur :
 
 Aplikasi Prestov2 ini sangat cocok digunakan di lembaga-lembaga pemerintahan untuk menggunakan presensi Finger dan presensi yang masih manual.
 
-*Ket : Open Donasi silahkan e-mail : agetoz@yahoo.com
+Untuk Database bs email di agetoz@yahoo.com
+*OPEN DONASI (DONATE) *Khusus Donasi kita bantu install via Remote Dekstop/SSH
