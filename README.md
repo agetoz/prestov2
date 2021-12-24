@@ -24,4 +24,5 @@ Untuk Database bs hubungi via :
 - email di agetoz@yahoo.com
 - Instagram @gigu.id
 
-OPEN DONASI (DONATE) *Khusus Donasi kita bantu install via Remote Dekstop/SSH
+OPEN DONASI (DONATE)
+*Khusus Donasi kita bantu install via Remote Dekstop/SSH
