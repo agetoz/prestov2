@@ -20,5 +20,7 @@ Fitur :
 
 Aplikasi Prestov2 ini sangat cocok digunakan di lembaga-lembaga pemerintahan untuk menggunakan presensi Finger dan presensi yang masih manual.
 
-OPEN DONASI (DONATE)
-*Khusus Donasi kita bantu install via Remote Dekstop/SSH
+(Payment Application)
+-Aplikasi ini ber-payment minimum (untuk ganti uang Listrik dan Kopi)
+-Untuk Donasi bisa kontak kami di @gigu.id (Instagram)
+-kita bantu install hingga tuntas
